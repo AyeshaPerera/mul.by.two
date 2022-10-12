@@ -1,0 +1,10 @@
+pandoc: 2.14.2
+pkgdown: 2.0.6
+pkgdown_sha: ~
+articles:
+  mul_by_two: mul_by_two.html
+last_built: 2022-10-12T04:30Z
+urls:
+  reference: https://ayeshaperera.github.io/mul.by.two/reference
+  article: https://ayeshaperera.github.io/mul.by.two/articles
+
