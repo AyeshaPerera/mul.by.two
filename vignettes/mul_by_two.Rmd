@@ -1,0 +1,20 @@
+---
+title: "mul_by_two"
+output: rmarkdown::html_vignette
+vignette: >
+  %\VignetteIndexEntry{mul_by_two}
+  %\VignetteEngine{knitr::rmarkdown}
+  %\VignetteEncoding{UTF-8}
+---
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>"
+)
+```
+
+```{r setup}
+library(mul.by.two)
+mul_by_two(3)
+```

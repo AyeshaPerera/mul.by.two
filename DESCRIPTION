@@ -1,0 +1,19 @@
+Package: mul.by.two
+Title: Multiply a number by two
+Version: 0.0.0.9000
+Authors@R: 
+    person("Ayesha", "Perera", , "first.last@example.com", role = c("aut", "cre"),
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Description: Multiply a number by two.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.1
+Imports: 
+    magrittr
+Suggests: 
+    knitr,
+    rmarkdown,
+    testthat (>= 3.0.0)
+VignetteBuilder: knitr
+Config/testthat/edition: 3
