@@ -32,3 +32,10 @@ mul_by_two(2)
 #> [1] 4
 ## basic example code
 ```
+
+<!-- badges: start -->
+
+[\[Codecov test
+coverage\]](https://github.com/r-lib/actions/blob/v2/examples/README.md)
+
+<!-- badges: end -->
