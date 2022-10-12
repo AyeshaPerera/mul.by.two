@@ -1,0 +1,16 @@
+---
+title: "In the blue"
+---
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>"
+)
+```
+
+```{r setup}
+library(mul.by.two)
+```
+
+Whales live in the ocean
