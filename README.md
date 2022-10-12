@@ -4,6 +4,8 @@
 # mul.by.two
 
 <!-- badges: start -->
+
+[![R-CMD-check](https://github.com/AyeshaPerera/mul.by.two/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/AyeshaPerera/mul.by.two/actions/workflows/R-CMD-check.yaml)
 <!-- badges: end -->
 
 The goal of mul.by.two is to …
